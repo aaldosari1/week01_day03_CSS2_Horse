@@ -1,0 +1,31 @@
+.main {
+  background-color: #ffffe0;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 5px 15px 15px 15px;
+  border-style: solid;
+  border-color: #a52a2a;
+  overflow: hidden;
+}
+
+img {
+  width: 688px;
+  height: 466px;
+  border-style: solid;
+  border-color: #ab6e00 #ffa500 #ffa500 #ab6e00;
+  border-width: 7px;
+  
+}
+
+.text {
+  width: 682px;
+  height: 120px;
+  background-color: #ffff00;
+  overflow: auto;
+  border-style: dashed;
+  border-width: 6px;
+  border-color: #ffa500;
+  font-size: 18px;
+  padding-left: 7px;
+  margin-top: 15px;
+}
